@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d1b6168-558c-4ddc-a090-d69617a8b6b8" name="Changes" comment="WeatherApp Project By python">
+      <change afterPath="$PROJECT_DIR$/.idea/Weather_App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9098495.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9098495.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy logo weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy_logo_weather-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humidity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-cloud-lightning-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-cloud-lightning.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-cloudy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-heavy-rain-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-heavy-rain.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-partly-cloudy-day.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-rain-cloud.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-sun.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons8-windy-weather-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pressure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wind.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wind.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zlQSVdgxyg20tox31j1IloLYrN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.API_Service.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/arshi/OneDrive/Desktop/work space/programming/codes/Weather_App",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arshi\OneDrive\Desktop\work space\programming\codes\Weather_App" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d1b6168-558c-4ddc-a090-d69617a8b6b8" name="Changes" comment="" />
+      <created>1752303179707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752303179707</updated>
+    </task>
+    <task id="LOCAL-00001" summary="WeatherApp Project By python">
+      <option name="closed" value="true" />
+      <created>1752343343502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752343343502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WeatherApp Project By python" />
+    <option name="LAST_COMMIT_MESSAGE" value="WeatherApp Project By python" />
+  </component>
+</project>
