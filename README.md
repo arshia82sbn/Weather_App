@@ -141,6 +141,3 @@ If you have questions, suggestions, or want to collaborate, I’d love to hear f
 - **Email**: [Arshia82sbn@gmail.com](mailto\:Arshia82sbn@gmail.com)
 
 ---
-
-Hope you enjoy this app! If you have any ideas for improvements, feel free to reach out. 🌟
-
