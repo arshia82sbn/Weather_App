@@ -3,7 +3,7 @@
 Welcome to my weather app! This is a simple and attractive application built with Python that displays the weather information of any city you like. It uses the **OpenWeatherMap API** to fetch data and has a UI built with **customtkinter** which is both sleek and user-friendly! 🌍
 
 ##
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](Screenshot.png)
 ##
 
 ## ✨ Features
