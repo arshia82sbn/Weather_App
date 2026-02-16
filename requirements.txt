@@ -1,6 +1,0 @@
-customtkinter
-requests
-geopy
-pytz
-timezonefinder
-Pillow
