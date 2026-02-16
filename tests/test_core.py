@@ -1,5 +1,4 @@
 from unittest.mock import MagicMock
-import pytest
 from datetime import datetime
 import pytz
 from weather_app.core.weather_manager import WeatherManager

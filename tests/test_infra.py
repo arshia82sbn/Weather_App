@@ -1,5 +1,4 @@
 from unittest.mock import patch, MagicMock
-import pytest
 import pytz
 from weather_app.infra.weather_service import OpenWeatherMapService
 
